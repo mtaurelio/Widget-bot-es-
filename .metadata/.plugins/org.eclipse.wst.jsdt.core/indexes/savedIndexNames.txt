@@ -1,0 +1,17 @@
+INDEX VERSION 1.3+C:\Fluig\treinando widget\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+178457940.index
+2600505565.index
+2090428029.index
+150984048.index
+1100414064.index
+3093768431.index
+1490676402.index
+2882956611.index
+2035500285.index
+2338671706.index
+1702069484.index
+3799280996.index
+1902846005.index
+3878545869.index
+2003706860.index
+3169430880.index
